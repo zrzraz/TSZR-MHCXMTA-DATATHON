@@ -20,6 +20,15 @@ Compiling all of our project info!
 <p>*insert all data we used from the site*</p>
 
 <h1> Visualizing Data </h1>
+
+<h3> Main data </h3>
+[MTA ACE VIOLATIONS]
+(https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+[MTA PRE CONGESTION RIDERSHIP (MARCH 2024)] (https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
+[MTA POST CONGESTION RIDERSHIP (MARCH 2025)]
+(https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1)
+
 <h1> Analysis </h1>
+
 <h1> Summarizing Final Findings + Insights </h1>
 <h1> Final Message </h1>
