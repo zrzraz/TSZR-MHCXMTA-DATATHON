@@ -47,3 +47,4 @@ Many of these violation hotspots also coincide with major landmarks, tourist att
 </p>
 
 <h1> Final Message </h1>
+<p> As next steps, we would analyze bus speeds to better understand how the ACE system affects transit efficiency. We also plan to expand our study to include MTA train ridership, evaluating the broader impact of congestion pricing on Manhattan’s public transportation. Additionally, we could identify which bus routes should be added to the ACE program as a priority, helping to optimize enforcement and improve overall transit flow. </p>
