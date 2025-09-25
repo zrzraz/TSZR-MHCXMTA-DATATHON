@@ -30,13 +30,20 @@ Compiling all of our project info!
 <p> -- The source datasets for #2 and #3 were sorted hourly and by route, and so we aggregated the data for each day, regardless of the hour or route, for the months of March 2024 and March 2025 respectively. Then, we calculated the average throughout the month to compare Manhattan Bus Ridership before the implementation of congestion pricing (March 2024), and after (March 2025), given it was implemented on January 5th, 2025. </p>
 
 <h1> Analysis </h1>
+<p>
+By analyzing the data, we noticed a particular, seperate string of violation hotspots ourside Manhattan and decided to look into it more. After researching the context and surroundings of these violation hotspots, we found that it connects Queens College and other institutions to a very busy neighborbood. Many Queens College students, in addition to Townsend Harris High School and John Bowne High School students, widely use a select few bus routes. This is due to the fact that there aren’t any train stations or other modes of public transportation near the campus. These bus routes coincide directly with a string of high-violation hotspots, providing insight on the causes of these hotspots. These bus routes also directly cross Flushing-Main Street, an area that is also very busy, being a central hub for many people, buses, cars, and acting as an economic center for many businesses. 
+
+Therefore, after conducting more research of the context and surroundings of violation hotspots, we found that many landmarks, tourist attractions, transfer locations, and college and institutions are in the vicinity of many violation hotspots, and that these factors aren't only unique to Manhattan.
+</p>
 
 
+<h1> Summarizing Final Findings + Insights </h1>
 <p>Ridership for Manhattan buses has increased by nearly 20,000 riders per day on average, with this number being even higher on business days, when comparing the months of March 2024 and March 2025, before and after congestion pricing was implemented. As there is increased ridership after congestion pricing was implemented, it may suggest that more people are opting for public transport to avoid the tolls, if this trend of increased ridership between 2024 and 2025 continues.
 <br> <br>
 We also found that 45% of the ACE violations issued are located in Manhattan and Queens during 2024-2025. In addition, violations issued in Manhattan have increased by 26% while decreasing 18% in Queens. This increase in Manhattan violations is also related to the fact that more Manhattan buses have been added to the ACE program in the recent months. This provides context to the statistic, displaying that an increase in violations may be due to the addition of new ACE routes where drivers and businesses are still acclimating.
 <br>
+Many of these violation hotspots also coincide with major landmarks, tourist attractions, and colleges and institutions, displaying a correlation between high-traffic and attraction areas and violation hotspots.
+<br>
 </p>
 
-<h1> Summarizing Final Findings + Insights </h1>
 <h1> Final Message </h1>
