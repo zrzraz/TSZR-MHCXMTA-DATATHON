@@ -22,12 +22,18 @@ Compiling all of our project info!
 <h1> Visualizing Data </h1>
 
 <h3> Main data </h3>
-MTA ACE VIOLATIONS
-  (https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots) <br>
-[MTA PRE CONGESTION RIDERSHIP (MARCH 2024)] <br>   (https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
-[MTA POST CONGESTION RIDERSHIP (MARCH 2025)] <br>
-<br> (https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1) <br>
-These datasets were sorted hourly and by route, and so we aggregated the data for each day, regardless of the hour or route, for the months of March 2024 and March 2025 respectively. Then, we calculated the average throughout the month to compare Manhattan Bus Ridership before the implementation of congestion pricing (March 2024), and after (March 2025), given it was implemented on January 5th, 2025.
+MTA ACE VIOLATIONS: https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots <br>
+<br>
+MTA PRE CONGESTION RIDERSHIP (MARCH 2024): https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1 <br>
+MTA POST CONGESTION RIDERSHIP (MARCH 2025): https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1) <br>
+<p> These datasets were sorted hourly and by route, and so we aggregated the data for each day, regardless of the hour or route, for the months of March 2024 and March 2025 respectively. Then, we calculated the average throughout the month to compare Manhattan Bus Ridership before the implementation of congestion pricing (March 2024), and after (March 2025), given it was implemented on January 5th, 2025. </p>
+
+<h3> Source Data From MTA Database</h3>
+<p> 
+MTA Bus Automated Camera Enforcement Violations: Beginning October 2019 (3.78M rows): https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/about_data <br>
+MTA Bus Hourly Ridership: 2020-2024 (362M rows): https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-2020-2024/kv7t-n8in/about_data <br>
+MTA Bus Hourly Ridership: Beginning 2025 (87.6M rows): https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-Beginning-2025/gxb3-akrn/about_data <br>
+<p>
 
 <h1> Analysis </h1>
 
