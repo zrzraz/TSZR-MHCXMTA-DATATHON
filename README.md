@@ -27,6 +27,7 @@ Compiling all of our project info!
 [MTA PRE CONGESTION RIDERSHIP (MARCH 2024)] (https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
 [MTA POST CONGESTION RIDERSHIP (MARCH 2025)]
 (https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1)
+These datasets were sorted hourly and by route, and so we aggregated the data for each day, regardless of the hour or route, for the months of March 2024 and March 2025 respectively. Then, we calculated the average throughout the month to compare Manhattan Bus Ridership before the implementation of congestion pricing (March 2024), and after (March 2025), given it was implemented on January 5th, 2025.
 
 <h1> Analysis </h1>
 
